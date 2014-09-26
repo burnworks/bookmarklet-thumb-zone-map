@@ -30,27 +30,27 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 ##### iPhone 4
 
-    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-4.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;}';head[0].appendChild(style);})();
+    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-4.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;z-index:1000;}';head[0].appendChild(style);})();
 
 ##### iPhone 5
 
-    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-5.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;}';head[0].appendChild(style);})();
+    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-5.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;z-index:1000;}';head[0].appendChild(style);})();
 
 ##### iPhone 6
 
-    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;}';head[0].appendChild(style);})();
+    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;z-index:1000;}';head[0].appendChild(style);})();
 
 ##### iPhone 6 (choke-up)
 
-    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6-choke-up.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;}';head[0].appendChild(style);})();
+    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6-choke-up.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;z-index:1000;}';head[0].appendChild(style);})();
 
 ##### iPhone 6 plus
 
-    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6-plus.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;}';head[0].appendChild(style);})();
+    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6-plus.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;z-index:1000;}';head[0].appendChild(style);})();
 
 ##### iPhone 6 plus (choke-up)
 
-    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6-plus-choke-up.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;}';head[0].appendChild(style);})();
+    javascript:(function(){var style=document.createElement('style');var head=document.getElementsByTagName('head');style.setAttribute('type','text\/css');style.innerHTML='body::after{content:url(//burnworks.com/docs/thumb_zone_map/iphone-6-plus-choke-up.jpg);position:fixed;top:0;left:0;opacity:.4;-webkit-transform:scale(.5);-webkit-transform-origin:0 0;transform:scale(.5);transform-origin:0 0;z-index:1000;}';head[0].appendChild(style);})();
 
 ## その他
 
