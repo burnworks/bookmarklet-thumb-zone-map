@@ -56,7 +56,7 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 下記のページで本ブックマークレットについての解説記事を書いています。参考まで。
 
-* [iOS Safari で閲覧中の Web ページ に Thumb Zone Map （親指が届く範囲マップ） をオーバーレイ表示するブックマークレットを作った](http://hyper-text.org/archives/2014/09/bookmarklet_thumb_zone_map.shtml)
+* [閲覧中の Web ページ に Thumb Zone Map （親指が届く範囲マップ） をオーバーレイ表示するブックマークレットを作った](http://hyper-text.org/archives/2014/09/bookmarklet_thumb_zone_map.shtml)
 
 ### Thumb Zone Templates
 
